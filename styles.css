@@ -76,7 +76,6 @@ header a {
 .main-content img {
     max-width: 150px;
     height: auto;
-    border-radius: 50%;
     float: left;
     margin-right: 20px;
     position: relative;
