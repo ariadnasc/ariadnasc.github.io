@@ -1,8 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f0f8ff;
+    color: #333;
 }
 
 .container {
@@ -12,11 +13,11 @@ body {
 }
 
 header {
-    background: #333;
+    background: #0044cc;
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #77b300 3px solid;
+    border-bottom: #003399 3px solid;
 }
 
 header a {
@@ -43,6 +44,7 @@ header #branding {
 
 header #branding h1 {
     margin: 0;
+    font-size: 24px;
 }
 
 header nav {
@@ -54,10 +56,12 @@ header nav {
     padding: 20px;
     background: #fff;
     margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
 }
 
 .main-content h1, .main-content h2 {
-    color: #333;
+    color: #0044cc;
     margin-top: 0;
 }
 
@@ -71,20 +75,26 @@ header nav {
 
 .main-content section {
     margin-bottom: 20px;
-}
-
-.main-content p {
     clear: both;
 }
 
+.main-content ul {
+    padding-left: 20px;
+}
+
+.main-content ul li {
+    list-style-type: disc;
+}
+
 footer {
-    background: #333;
+    background: #0044cc;
     color: #fff;
     text-align: center;
     padding: 10px 0;
     position: fixed;
     bottom: 0;
     width: 100%;
+    border-top: #003399 3px solid;
 }
 
 footer p {
