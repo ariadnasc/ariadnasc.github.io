@@ -2,44 +2,27 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
+    background-color: #fafafa;
     color: #333;
 }
 
 .container {
-    width: 80%;
+    width: 90%;
+    max-width: 1000px;
     margin: auto;
     overflow: hidden;
 }
 
 header {
-    background: #0044cc;
+    background: #336699;
     color: #fff;
-    padding-top: 30px;
-    min-height: 70px;
-    border-bottom: #003399 3px solid;
-}
-
-header a {
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 16px;
-}
-
-header ul {
-    padding: 0;
-    list-style: none;
-}
-
-header li {
-    float: left;
-    display: inline;
-    padding: 0 20px 0 20px;
+    padding: 10px 0;
+    border-bottom: #264d73 3px solid;
 }
 
 header #branding {
     float: left;
+    margin-left: 20px;
 }
 
 header #branding h1 {
@@ -47,9 +30,32 @@ header #branding h1 {
     font-size: 24px;
 }
 
+header #branding p {
+    margin: 0;
+    font-size: 14px;
+    color: #d9d9d9;
+}
+
 header nav {
     float: right;
-    margin-top: 10px;
+    margin-right: 20px;
+}
+
+header ul {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+
+header li {
+    display: inline;
+    padding: 0 20px;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
 }
 
 .main-content {
@@ -60,41 +66,37 @@ header nav {
     border-radius: 5px;
 }
 
-.main-content h1, .main-content h2 {
-    color: #0044cc;
+.main-content h2 {
+    color: #336699;
     margin-top: 0;
+    border-bottom: 2px solid #336699;
+    padding-bottom: 5px;
 }
 
 .main-content img {
-    max-width: 200px;
+    max-width: 150px;
     height: auto;
     border-radius: 50%;
     float: left;
     margin-right: 20px;
 }
 
-.main-content section {
-    margin-bottom: 20px;
+.main-content p {
     clear: both;
 }
 
 .main-content ul {
     padding-left: 20px;
-}
-
-.main-content ul li {
     list-style-type: disc;
 }
 
 footer {
-    background: #0044cc;
+    background: #336699;
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    border-top: #003399 3px solid;
+    border-top: #264d73 3px solid;
+    margin-top: 20px;
 }
 
 footer p {
