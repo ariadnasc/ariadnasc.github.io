@@ -1,1 +1,0 @@
-# ariadnasc.github.io
