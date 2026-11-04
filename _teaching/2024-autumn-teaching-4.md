@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/pplssc-2024-2025-2026
 venue: "University of Edinburgh, PPLS"
-date: 2024-2026 
+year: 2024-2026 
 location: "Edinburgh, UK"
 ---
 

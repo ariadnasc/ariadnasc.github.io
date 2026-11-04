@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/upc-2022-2026
 venue: "Univeristat Politecnica de Catalunya (UPC)"
-date: 2022-2026
+year: 2022-2026
 location: "Barcelona, Spain"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/asr-2024
 venue: "University of Edinburgh, School of Informatics"
-date: Jan 2024 - May 2024
+year: Jan 2024 - May 2024
 location: "Edinburgh, UK"
 ---
 

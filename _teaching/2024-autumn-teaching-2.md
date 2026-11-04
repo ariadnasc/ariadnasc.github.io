@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/pi-2024-2025
 venue: "University of Edinburgh, School of Informatics"
-date: Sept 2024 - Dec 2024; Sept 2025 - Dec 2025 
+year: Sept 2024 - Dec 2024; Sept 2025 - Dec 2025 
 location: "Edinburgh, UK"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/pi-2026
 venue: "University of Edinburgh, School of Informatics"
-date: Sept 2026 - Dec 2026 
+year: Sept 2026 - Dec 2026 
 location: "Edinburgh, UK"
 ---
 
