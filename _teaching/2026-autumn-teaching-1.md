@@ -1,10 +1,10 @@
 ---
-title: "Tutor and Marker, Professional Issues"
+title: "Tutor and Marker, Professional Issues, 2026"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/pi-2026
 venue: "University of Edinburgh, School of Informatics"
-year: Sept 2026 - Dec 2026 
+date: 2026-09-20 
 location: "Edinburgh, UK"
 ---
 

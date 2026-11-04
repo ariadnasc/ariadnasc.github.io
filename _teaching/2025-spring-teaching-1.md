@@ -1,10 +1,10 @@
 ---
-title: "Lab Demonstrator, Speech Synthesis"
+title: "Lab Demonstrator, Speech Synthesis, 2025"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/ss-2025
 venue: "University of Edinburgh, PPLS"
-year: Jan - May 2025
+year: 2025-01-10
 location: "Edinburgh, UK"
 ---
 
