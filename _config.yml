@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Ariadna Sanchez"
   pronouns         : "she/her"  
-  bio              : "PhD candidate in speech technologies"
+  bio              : "PhD student"
   location         : "Edinburgh"
   employer         : "University of Edinburgh"
   uri              : # URL
-  email            : "ariadna dot sanchez at ed dot ac dot uk" 
+  email            : "ariadna.sanchez@ed.ac.uk" 
 
   # Academic websites
   academia         : # URL
