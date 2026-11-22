@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised models for dysarthric speech: Understanding representations through visual analysis and probing"
 collection: talks
-type: "Poster"
+type: "Talk"
 permalink: /talks/2024-06-15-probing-ssl-dysarthria
 venue: "UK and Ireland Speech Workshop"
 date: 2024-06-15
