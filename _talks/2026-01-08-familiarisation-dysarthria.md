@@ -1,8 +1,8 @@
 ---
 title: "Does familiarisation with dysarthric speech predict listeners' intelligibility ratings?"
-collection: posters-and-talks
+collection: talks
 type: "Poster"
-permalink: /posters-and-talks/2026-01-08-familiarisation-dysarthria
+permalink: /talks/2026-01-08-familiarisation-dysarthria
 venue: "Speech in Noise Workshop (SpIN)"
 date: 2026-01-08
 location: "Paris, France"

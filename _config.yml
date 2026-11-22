@@ -282,10 +282,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _posters-and-talks
   - scope:
       path: ""
-      type: talks
+      type: posters-and-talks
     values:
       layout: talk
       author_profile: true

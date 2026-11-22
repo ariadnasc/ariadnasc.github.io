@@ -1,8 +1,8 @@
 ---
 title: "To listen or not to listen? A quasi-experimental study on reading-only versus reading-while-listening for incidental vocabulary learning in L2 Spanish learners at different levels of lexical proficiency"
-collection: posters-and-talks
+collection: talks
 type: "Talk"
-permalink: /posters-and-talks/2024-09-05-l2-incidental-learning
+permalink: /talks/2024-09-05-l2-incidental-learning
 venue: "British Association for Applied Linguistics Conference"
 date: 2024-09-05
 location: "Colchester, UK"
