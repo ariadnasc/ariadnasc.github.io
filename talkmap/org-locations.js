@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "Does familiarisation with dysarthric speech predict listeners' intelligibility ratings?<br />Speech in Noise Workshop (SpIN); Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Self-supervised models for dysarthric speech: Understanding representations through visual analysis and probing<br />UK and Ireland Speech Workshop; Cambridge, UK",
