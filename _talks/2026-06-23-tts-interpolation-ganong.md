@@ -1,13 +1,12 @@
 ---
 title: "Examining text-to-speech blended stimuli for perception experiments: The Ganong effect"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/2026-06-23-tts-interpolation-ganong
 venue: "LabPhon"
 date: 2026-06-23
 location: "Montreal, Canada"
 ---
-
 Abstract accepted at LabPhon 20 (2026), held in Montreal, Canada.
 Presented as a poster.
 
