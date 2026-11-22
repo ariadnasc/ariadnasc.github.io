@@ -1,5 +1,5 @@
 ---
-title: "An Evaluation Framework for Text-to-Speech Voice Reconstruction"
+title: "Sexualised Synthetic Personas Encode and Amplify Gendered Power Asymmetries through Voice"
 collection: talks
 type: "Talk"
 permalink: /talks/2026-09-05-tts-personas
