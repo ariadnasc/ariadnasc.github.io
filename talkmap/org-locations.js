@@ -30,7 +30,7 @@ var addressPoints = [
     -1.0743052
   ],
   [
-    "An Evaluation Framework for Text-to-Speech Voice Reconstruction<br />Lavender Languages (LavLang) Conference; Edinburgh, UK",
+    "Sexualised Synthetic Personas Encode and Amplify Gendered Power Asymmetries through Voice<br />Lavender Languages (LavLang) Conference; Edinburgh, UK",
     55.9533456,
     -3.1883749
   ]
